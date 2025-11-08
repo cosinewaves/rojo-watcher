@@ -32,7 +32,7 @@ cargo build --release
 Simply run the command:
 
 ```bash
-file-watcher
+rojo-watcher
 ```
 
 
